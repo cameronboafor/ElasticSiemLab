@@ -1,4 +1,4 @@
-# ElasticSiemLab
+# Elastic Siem Home Lab
 <h2>Description</h2>
 - <b>Set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic Agents for log collection, and forwarding data to the SIEM for effective security event monitoring..
 <br />
@@ -31,15 +31,12 @@ Detect Nmap traffic in Elastic Defender Logs:  <br/>
 <br />
 <br />
 Configure a Dashboard for Events:  <br/>
-<img src="https://i.imgur.com/2zfNrWN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2zfNrWN.png" height="80%" width="80%" alt="Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Alert Configuration:  <br/>
+<img src="https://imgur.com/VIuZuzn.png" height="80%" width="80%" alt="Steps"/>
+
 </p>
 
 <!--
